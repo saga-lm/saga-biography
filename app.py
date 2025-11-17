@@ -1479,7 +1479,7 @@ def main():
     demo.launch(
         server_name="0.0.0.0",
         server_port=port,
-        share=False,
+        share=True,
         show_error=True,
         show_api=False
     )

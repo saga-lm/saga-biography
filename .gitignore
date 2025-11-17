@@ -46,9 +46,12 @@ sessions/*.json
 # Results
 results/
 outputs/
-*.txt
 *.docx
 *.pdf
+
+# Allow important config files
+!requirements.txt
+!runtime.txt
 
 # Logs
 *.log

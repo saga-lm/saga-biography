@@ -5,7 +5,7 @@ services:
     region: oregon
     plan: free
     branch: main
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
     startCommand: python app.py
     envVars:
       - key: OPENROUTER_API_KEY
@@ -16,8 +16,6 @@ services:
         value: openai-gpt4
       - key: MAX_CONCURRENT_WORKERS
         value: 10
-      - key: PYTHON_VERSION
-        value: 3.10.0
     healthCheckPath: /
     autoDeploy: true
 
