@@ -1465,15 +1465,20 @@ def create_gradio_interface():
 
 def main():
     """Main entry point."""
+    import os
+    
+    port = int(os.getenv("PORT", 7860))
+    
     print("🚀 启动SAGA传记生成系统...")
     print(f"🤖 当前模型: {settings.default_model}")
     print(f"💾 会话存储路径: sessions/")
+    print(f"🌐 服务端口: {port}")
     
     demo = create_gradio_interface()
     
     demo.launch(
         server_name="0.0.0.0",
-        server_port=7860,
+        server_port=port,
         share=False,
         show_error=True,
         show_api=False
