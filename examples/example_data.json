@@ -1,0 +1,217 @@
+{
+  "people": {
+    "person_001": {
+      "person_info": {
+        "name": "Zhang Wei",
+        "basic_data": {
+          "current_age": 52,
+          "gender": "male",
+          "birth_year": "1971"
+        },
+        "personal_background": {
+          "personality": {
+            "main_trait": "resilient and hardworking",
+            "behavior": "thoughtful and determined"
+          },
+          "family_details": {
+            "economic_status": "working class",
+            "father_job": "factory worker",
+            "mother_job": "seamstress"
+          },
+          "appearance": {
+            "description": "medium build, gentle eyes, calloused hands from years of work"
+          }
+        }
+      },
+      "life_timeline": [
+        {
+          "age": 7,
+          "type": "childhood",
+          "description": "Started elementary school during the Cultural Revolution period",
+          "details": "School was often disrupted, learned basic reading and arithmetic under difficult conditions. Family struggled financially but emphasized education."
+        },
+        {
+          "age": 18,
+          "type": "education",
+          "description": "Graduated high school and entered technical college",
+          "details": "One of the first in family to pursue higher education. Studied mechanical engineering at local technical institute."
+        },
+        {
+          "age": 22,
+          "type": "work_change",
+          "description": "Started first job at state-owned factory",
+          "details": "Worked as junior technician in large manufacturing plant. Learned practical skills and work discipline.",
+          "work_details": {
+            "workplace_name": "Dongfeng Machinery Factory",
+            "job_title": "Junior Technician",
+            "daily_routine": "Maintained and repaired industrial equipment",
+            "income": "480 yuan per month",
+            "main_challenge": "Adapting to industrial work environment and learning complex machinery"
+          }
+        },
+        {
+          "age": 27,
+          "type": "marriage",
+          "description": "Married college classmate Liu Mei",
+          "details": "Met during technical college, married after both found stable jobs. Simple wedding ceremony with family and close friends."
+        },
+        {
+          "age": 29,
+          "type": "birth",
+          "description": "First child born - daughter Zhang Lin",
+          "details": "Became father during China's one-child policy period. Focused on providing good education for daughter.",
+          "child_details": {
+            "name": "Zhang Lin",
+            "personality": "bright and curious",
+            "behavior": "studious, loves reading",
+            "main_issue": "pressure from academic competition"
+          }
+        },
+        {
+          "age": 35,
+          "type": "work_change",
+          "description": "Promoted to senior technician and team leader",
+          "details": "Recognized for technical skills and reliability. Started leading small team of younger workers.",
+          "work_details": {
+            "workplace_name": "Dongfeng Machinery Factory",
+            "job_title": "Senior Technician & Team Leader",
+            "daily_routine": "Supervised equipment maintenance and trained new workers",
+            "income": "1200 yuan per month",
+            "main_challenge": "Managing people and dealing with factory modernization"
+          }
+        },
+        {
+          "age": 42,
+          "type": "challenges",
+          "description": "Factory downsizing and job uncertainty",
+          "details": "State enterprise reforms led to layoffs and restructuring. Worried about job security and family future."
+        },
+        {
+          "age": 45,
+          "type": "work_change",
+          "description": "Transitioned to private company as technical consultant",
+          "details": "Used accumulated experience to work with smaller private manufacturing companies. More flexible but less stable income.",
+          "work_details": {
+            "workplace_name": "Multiple client companies",
+            "job_title": "Technical Consultant",
+            "daily_routine": "Provided technical advice and troubleshooting services",
+            "income": "2500-4000 yuan per month (variable)",
+            "main_challenge": "Building client relationships and managing irregular income"
+          }
+        },
+        {
+          "age": 48,
+          "type": "achievements",
+          "description": "Daughter graduated from university and found good job",
+          "details": "Zhang Lin graduated with engineering degree and started career at technology company. Proud of her success despite economic difficulties."
+        },
+        {
+          "age": 50,
+          "type": "personal_growth",
+          "description": "Started learning computer skills and digital tools",
+          "details": "Recognized need to adapt to changing technology. Enrolled in evening computer classes to stay relevant in work."
+        }
+      ]
+    },
+    "person_002": {
+      "person_info": {
+        "name": "Li Xiaohong",
+        "basic_data": {
+          "current_age": 38,
+          "gender": "female",
+          "birth_year": "1985"
+        },
+        "personal_background": {
+          "personality": {
+            "main_trait": "optimistic and adaptable",
+            "behavior": "sociable and goal-oriented"
+          },
+          "family_details": {
+            "economic_status": "middle class",
+            "father_job": "teacher",
+            "mother_job": "accountant"
+          },
+          "appearance": {
+            "description": "petite, expressive eyes, always well-dressed"
+          }
+        }
+      },
+      "life_timeline": [
+        {
+          "age": 6,
+          "type": "childhood",
+          "description": "Started elementary school during China's economic opening period",
+          "details": "Grew up in small city experiencing rapid economic development. Parents emphasized education and cultural development."
+        },
+        {
+          "age": 18,
+          "type": "education",
+          "description": "Enrolled in university business program in Beijing",
+          "details": "First in family to study in major city. Studied international business during China's WTO entry period."
+        },
+        {
+          "age": 22,
+          "type": "work_change",
+          "description": "Started career at foreign trade company",
+          "details": "Worked in import/export business during China's manufacturing boom. Learned English and international business practices.",
+          "work_details": {
+            "workplace_name": "Sino-German Trading Co.",
+            "job_title": "Junior Trade Specialist",
+            "daily_routine": "Handled export documentation and client communication",
+            "income": "3500 yuan per month",
+            "main_challenge": "Learning international business protocols and improving English"
+          }
+        },
+        {
+          "age": 26,
+          "type": "personal_growth",
+          "description": "Completed MBA program while working",
+          "details": "Pursued evening MBA to advance career. Balanced work, study, and personal life during intense period."
+        },
+        {
+          "age": 28,
+          "type": "work_change",
+          "description": "Joined multinational corporation as marketing manager",
+          "details": "Moved to larger company with international operations. Responsible for China market development.",
+          "work_details": {
+            "workplace_name": "Global Tech Solutions",
+            "job_title": "Marketing Manager",
+            "daily_routine": "Developed marketing strategies and managed client relationships",
+            "income": "8500 yuan per month",
+            "main_challenge": "Adapting to corporate culture and managing larger teams"
+          }
+        },
+        {
+          "age": 30,
+          "type": "marriage",
+          "description": "Married software engineer Wang Jun",
+          "details": "Met through mutual friends in tech industry. Modern wedding ceremony blending traditional and contemporary elements."
+        },
+        {
+          "age": 32,
+          "type": "birth",
+          "description": "Son born - Wang Mingxuan",
+          "details": "Became mother during China's economic boom period. Balanced career advancement with family responsibilities.",
+          "child_details": {
+            "name": "Wang Mingxuan",
+            "personality": "active and creative",
+            "behavior": "loves building things and asking questions",
+            "main_issue": "finding balance between screen time and outdoor activities"
+          }
+        },
+        {
+          "age": 35,
+          "type": "achievements",
+          "description": "Promoted to regional marketing director",
+          "details": "Led successful product launches and market expansion. Recognized for innovative marketing strategies in competitive market."
+        },
+        {
+          "age": 37,
+          "type": "challenges",
+          "description": "Navigated company restructuring during economic uncertainty",
+          "details": "Economic slowdown led to company changes. Adapted to new priorities while maintaining team morale and performance."
+        }
+      ]
+    }
+  }
+}
